@@ -26,6 +26,11 @@
       "name": "GitHub",
       "icon": "github",
       "url": "https://github.com/magicblock-labs/Solana.Unity-SDK"
+    },
+    {
+      "name": "Discord",
+      "icon": "discord",
+      "url": "https://discord.gg/MBkdC3gxcv"
     }
   ],
   "navigation": [
