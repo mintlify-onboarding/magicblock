@@ -23,9 +23,9 @@
   ],
   "anchors": [
     {
-      "name": "",
-      "icon": "",
-      "url": ""
+      "name": "GitHub",
+      "icon": "github",
+      "url": "https://github.com/magicblock-labs/Solana.Unity-SDK"
     }
   ],
   "navigation": [
