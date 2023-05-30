@@ -12,7 +12,12 @@
   "colors": {
     "primary": "#818CF8",
     "light": "#9EA7FF",
-    "dark": "#818CF8"
+    "dark": "#818CF8",
+    "anchors": {
+      "from": "#818CF8",
+      "via": "#53a8c8",
+      "to": "#2ae3a8"
+    }
   },
   "topbarCtaButton": {
     "name": "View Demo",
